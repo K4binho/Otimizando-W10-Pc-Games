@@ -9,8 +9,8 @@
 
 - `Tem vírus?`: Veja a analise você mesmo e se decida aqui nesse site <a href="https://www.virustotal.com/gui/file/c6feb537619a77529435824f4f942b00db4fd41224c0e46b2a6002ac3d5a8d83?nocache=1">VirusTotal</a>.
 - `Mas alguem além de você testou isso?`: sim, minhas cobais, digo... meus amigos :)
-- `Tem chance disso f0der meu pc?`: Sim, mas só se vc forçar de mais.
-- `E se eu fizer merda?`: Bom, siga o recomendado e para evitar possiveis problemas crie um ponto de restauração e tudo volta ao normal.
+- `Tem chance disso f0der meu pc?`: Sim, mas só se vc forçar de mais então...Siga o recomendado.
+- `E se eu fizer merda?`: Bom, para evitar possiveis problemas crie um ponto de restauração e tudo volta ao normal.
 - `Onde aprendeu e conseguiu tudo isso?`: Bem, eu sempre tive um Pc fraco então sempre procurei por dicas de como otimizar e tals... um certo dia resolvi juntar tudo e fazer uma versão definitiva vou deixar os créditos de tudo que lembro em um arquivo txt.
 
 <br>
