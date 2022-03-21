@@ -16,6 +16,4 @@
 <br>
 
 <h3>PRIMEIROS PASSOS  :</h3> <img align="right" width="200px" height="290px" src="https://c.tenor.com/iO0R-Bau0noAAAAi/loli-dance.gif">
-Primeiro esse foi o resultado de analise no site  muito provavelmente esse resultado não deu 100% seguro por conta dos arquivos regedit que tem dentro dele.
-
 baixe esse <a href="https://github.com/K4binho/Otimizando-W10-Pc-Games/raw/main/Otimiza%C3%A7%C3%A3o%20Windows%20e%20Jogos.rar">arquivo</a> extraia na sua área trabalho 
