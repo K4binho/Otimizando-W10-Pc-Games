@@ -1,2 +1,3 @@
-# Otimizando-W10-Pc-Games
-Nesse repositório eu mostro como Otimizar o Pc(W10) para uso e jogos  
+<h1 align="center">:construction: Projeto em construção :construction:</h1>
+
+<h1 align="center"> OTIMIZANDO O W10 PARA JOGOS E ESTUDO/TRABALHO</h1>
