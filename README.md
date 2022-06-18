@@ -7,7 +7,7 @@
 <img align="right" width="100px" height="190px" src="https://c.tenor.com/zxGnaT-f7R8AAAAi/menhera-chan-fear.gif">
 <br>
 
-- `Tem vírus?`: Veja a analise você mesmo e se decida aqui nesse site <a href="https://www.virustotal.com/gui/file/c6feb537619a77529435824f4f942b00db4fd41224c0e46b2a6002ac3d5a8d83?nocache=1">VirusTotal</a>.
+- `Tem vírus?`: Veja a analise você mesmo e se decida aqui nesse site <a href="https://www.virustotal.com/gui/file/6ef01460f0dc169c95f823eb742ab02d17eb9133448e69c7787f84c6d7f30f0f/detection">VirusTotal</a>.
 - `Mas alguem além de você testou isso?`: sim, minhas cobaias, digo... meus amigos :)
 - `Tem chance disso f0der meu pc?`: Sim, mas só se vc forçar de mais então...Siga o recomendado.
 - `E se eu fizer merda?`: Bom, para evitar possiveis problemas crie um ponto de restauração e tudo volta ao normal.
